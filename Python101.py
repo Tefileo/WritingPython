@@ -23,3 +23,15 @@
 print('hello hello i am a string')
 print(box_pillows)
 print('14')
+
+my_string = "Amazing Grilled Fish"
+
+Joining of two strings
+
+first_name = 'Boris'
+last_name = 'May'
+
+print(first_name + + last)
+
+# Interpolation
+# You inject a string into another string
